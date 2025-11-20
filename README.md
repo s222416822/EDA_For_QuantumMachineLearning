@@ -1,21 +1,19 @@
-# DataAnalysis-MNIST_CIFAR_GENOMIC_others
+# Exploratory Data Analysis and Preparation of various datasets for Quantum Machine Learning
+
+# IRIS Dataset
+
 # MNIST
 
-# Genomic
+# Genomic Datasets
 
 # CIFAR10
 https://www.cs.toronto.edu/~kriz/cifar.html 
 
-
-# IRIS 
-
 # Synthetic Datasets
-
 
 # Vehicle Datasets
 
 # Satellite Datasets
-
 
 # Dimension Reduction Resources:
 1. https://github.com/harjeet-blue/Dimensionality-Reduction-algos 
